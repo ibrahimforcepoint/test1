@@ -1,0 +1,23 @@
+660-03-8360
+
+514-14-8905
+
+690-05-5315
+
+
+
+SSNs following a valid format but using invalid digits:
+
+000-12-3456
+
+666-12-3456
+
+901-12-3456
+
+
+Test patterns that may be excluded by DLP vendors:
+
+
+888-88-8888
+
+987-65-4321
